@@ -98,6 +98,10 @@ section {
 	content: '\f19c';
 }
 
+#navbar a[for*='5']:before {
+	content: '\f0f6';
+}
+
 #navbar a:hover {
 	color: #888;
 	cursor: pointer;
